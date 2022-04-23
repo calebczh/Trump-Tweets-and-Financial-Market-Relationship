@@ -14,6 +14,12 @@ This is a Mini-Project for CZ1115 (Introduction to Data Science and Artificial I
 - Are we able to predict the performance of the financial market next day based on Donald Trump's tweets?
 - What determining factors are there?
 
+## Contributors
+
+- @calebczh - Data Preparation, Data Visualization, Natural Language Processing, Linear Regression
+- Arun - Data Visualization
+- Cheryl Koh - Data Visualization
+
 ## Models Used
 
 1. Linear Regression
